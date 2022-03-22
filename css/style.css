@@ -80,6 +80,7 @@ a{
     left :-274px;
     background: #f1f1f1;
     z-index : 101 ;
+    overflow: auto;
 }
 
 .aside>.logIn {
